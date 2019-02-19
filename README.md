@@ -46,7 +46,7 @@ _build and run consumer_
 killall -9 java
 ```
 
-links
+## links
 
 - [some examples](http://rocketmq.apache.org/docs/simple-example/)
 - [quick start](http://rocketmq.apache.org/docs/quick-start/)
