@@ -29,3 +29,8 @@ _cleanup_
 ```bash
 killall -9 java
 ```
+
+links
+
+- [some examples](http://rocketmq.apache.org/docs/simple-example/)
+- [quick start](http://rocketmq.apache.org/docs/quick-start/)
